@@ -36,6 +36,7 @@ o	DBW (Drive by Wire) - takes target trajectory information as input and sends c
 
 The diagram below illustrates the system architecture. The autonomous vehicle controller is composed of three major units: perception, planning, and control.
 
+![alt text](imgs/Implementation%20Node.png)
   
   a: /camera/image_raw
   b: /current_pose
